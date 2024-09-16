@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Yelissa",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "https://notion-avatar.vercel.app/api/svg/eyJmYWNlIjo5LCJub3NlIjo1LCJtb3V0aCI6NiwiZXllcyI6MSwiZXllYnJvd3MiOjksImdsYXNzZXMiOjEzLCJoYWlyIjoyNiwiYWNjZXNzb3JpZXMiOjAsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjoxLCJjb2xvciI6IiM2ZWMxYzQiLCJzaGFwZSI6ImNpcmNsZSJ9", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Graduate Student",
     bio: "The page to store useful imformation from my collection.",
     email: "solovled188@gmail.com",
@@ -24,8 +24,8 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  link: "https://yelissa-pages.vercel.app/",
+  since: 2024, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
